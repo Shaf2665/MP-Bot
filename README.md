@@ -45,5 +45,6 @@ Features include moderation, music, leveling, role management, and server welcom
 !level → Show your XP/level
 
 ## 📜 License
-MIT License © PhoenixHost
+- License Change Notice: As of [25-09-2025], this project is licensed under GNU GPLv3. Previously, it was licensed under the MIT License.
+
 
