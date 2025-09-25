@@ -19,8 +19,8 @@ Features include moderation, music, leveling, role management, and server welcom
 📈 Level-up notifications with XP tracking
 
 
-**
-🛠️ Commands Overview**
+
+🛠️ Commands Overview
 
 !welcome <#channel> → Set welcome channel
 
