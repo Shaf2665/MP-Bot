@@ -17,3 +17,29 @@ Features include moderation, music, leveling, role management, and server welcom
 ⚠️ Warn & Ban system
 
 📈 Level-up notifications with XP tracking
+
+
+**
+🛠️ Commands Overview**
+
+!welcome <#channel> → Set welcome channel
+
+!goodbye <#channel> → Set goodbye channel
+
+!purge <amount> → Delete messages in bulk
+
+!addrole <@user> <role> → Add role
+
+!removerole <@user> <role> → Remove role
+
+!warn <@user> <reason> → Warn a user
+
+!ban <@user> → Ban a user
+
+!play <song> → Play music
+
+!skip → Skip song
+
+!stop → Stop music
+
+!level → Show your XP/level
