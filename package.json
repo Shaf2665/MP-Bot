@@ -1,0 +1,16 @@
+{
+  "name": "phoenix-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.2",
+    "dotenv": "^16.4.5",
+    "quick.db": "^9.0.6",
+    "ytdl-core": "^4.11.5",
+    "@discordjs/voice": "^1.9.2",
+    "rss-parser": "^3.13.0"
+  }
+}
