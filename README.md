@@ -2,7 +2,7 @@
 A powerful, multi-purpose Discord bot built with Node.js and discord.js.
 Features include moderation, music, leveling, role management, and server welcome/goodbye messages.
 
-🚀 Features
+## 🚀 Features
 
 👋 Welcome & Goodbye messages
 
@@ -20,7 +20,7 @@ Features include moderation, music, leveling, role management, and server welcom
 
 
 
-🛠️ Commands Overview
+## 🛠️ Commands Overview
 
 !welcome <#channel> → Set welcome channel
 
@@ -43,3 +43,7 @@ Features include moderation, music, leveling, role management, and server welcom
 !stop → Stop music
 
 !level → Show your XP/level
+
+## 📜 License
+MIT License © PhoenixHost
+
